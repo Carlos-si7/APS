@@ -7,7 +7,7 @@ body {
     justify-content: center;
     margin: 0px;
     padding: 0px;
-    background-image: url('/1.jpeg');
+    background-image: url('1.jpeg');
     background-size:cover;
     background-position: 0 auto;
     background-repeat: no-repeat; 
