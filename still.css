@@ -37,7 +37,7 @@ li {
     position: absolute;
     top: 20px;
     left: 20px;
-    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente */
+    background-color: rgba(0, 0, 0, 0.5);
     padding: 10px;
     border-radius: 5px;
     color: white;
