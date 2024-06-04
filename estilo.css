@@ -1,0 +1,99 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0 auto;
+    border: #28a745;
+    background-image: url('imagens/imaem.jpg'); 
+    background-size: top;
+    background-position: left;
+    background-repeat: no-repeat;    
+}
+
+.suporte1 {
+    text-align: center;
+    margin: 50px auto;
+    width: 80%;
+}
+a[href^="tel:"] {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a[href^="tel:"]:hover {
+    text-decoration: underline;
+}
+
+
+a[href^="mailto:"] {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a[href^="mailto:"]:hover {
+    text-decoration: underline;
+}
+
+.acess {
+    text-align: center;
+    margin: 50px auto;
+    width: 80%;
+}
+
+h1 {
+    color: #008000; 
+}
+
+p a {
+    color: #08da08; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p a:hover {
+    color: #006400; 
+    text-decoration: underline;
+}
+input[type="text"], input[type="password"], input[type="email"] {
+    width: calc(100% - 20px);
+    padding: 8px 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+p {
+    text-align: center;
+    Float: none;
+}
+
+h2{
+    font-family: Arial, sans-serif;
+    color:#073607;    
+text-shadow: black;
+text-align: center;}
+
+.bloco19{
+    width: 75%;
+    height: 200%;
+    padding: 0 auto;
+        border-radius: 15px;
+    float: none;
+    background-color: #ddf5e2;
+    text-shadow: black;
+}
